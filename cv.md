@@ -31,3 +31,20 @@ function highAndLow(numbers){
     return newArr.join(' ');
 };
 ```
+
+## Work experience
+
+_Don't have it yet_
+
+## Education
+
+
+- **_Chernivtsi National University named after Yuriy Fedkovych_**
+- **_Bukovina State Institute of Finance and Economics_**
+- **_JS / FRONT-END. STAGE 0_** from [RS School](https://rs.school/)
+
+
+## English
+
+I graduated from the Chernivtsi National University the department of Foreign Languages ​​in 2004. Since then, I have never worked in my specialty and have hardly used English in my life. So I forgot a lot, but now I try to read something in English every day and study using Duolingo.  
+[StreamLine Language School English test result](https://test.str.by/mod/quiz/review.php?attempt=214574&cmid=1181): __Upper Intermediate (CEFR B2)__
